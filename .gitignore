@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore zip
 *.zip
+
+# Ignore .html
+*.html
